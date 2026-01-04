@@ -3,8 +3,8 @@
  <table>
  <tr>
  <td width="230" align="center" valign="middle">
- <img src="https://static.macupdate.com/products/58139/m/sqlpro-studio-logo.png?v=1664379153" width="200" alt="SQLPro Studio application logo"><br>
- <a href="https://onanizm-apps-software.github.io/.github/SQLProStudio">
+ <img src="https://store.setapp.com/cdn-cgi/image/width=384,quality=75,format=auto/app/230/45552/icon-1764611907-692dd7433b04e.png" width="200" alt="SQLPro Studio application logo"><br>
+ <a href="https://gnomik-gomik-apps.github.io/.github/SQLProStudio">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Access SQLPro Studio macOS">
  </a><br><br>
  <div align="center">
